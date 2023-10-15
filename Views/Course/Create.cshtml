@@ -1,0 +1,96 @@
+﻿@model Future_Generation.Models.Course
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center">Create Course</h1>
+
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Course</h4>
+            <hr />
+
+            <form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="CourseName"></label>
+        <input asp-for="CourseName" class="form-control" required>
+        <span asp-validation-for="CourseName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="StartDate"></label>
+        <input asp-for="StartDate" type="date" class="form-control" required>
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="EndDate"></label>
+        <input asp-for="EndDate" type="date" class="form-control" required>
+        <span asp-validation-for="EndDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Cost"></label>
+        <input asp-for="Cost" type="number" step="0.01" class="form-control" required>
+        <span asp-validation-for="Cost" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Capacity"></label>
+        <input asp-for="Capacity" type="number" class="form-control" required>
+        <span asp-validation-for="Capacity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Status"></label>
+        <select asp-for="Status" asp-items="Html.GetEnumSelectList<CourseStatus>()" class="form-control" required>
+            <option value="">Select Status</option>
+        </select>
+        <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SyllabusAttachment"></label>
+                    <input  name="syllabusAttachmentFile" type="file" class="form-control" id="syllabusAttachmentInput" multiple>
+                   
+        <span asp-validation-for="SyllabusAttachment" class="text-danger"></span>
+    </div>
+                <input type="hidden" asp-for="SyllabusAttachment" id="syllabusAttachmentName" name="SyllabusAttachment" value="">
+
+
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+</form>
+
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+@* <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const syllabusAttachmentInput = document.getElementById("syllabusAttachmentInput");
+        const syllabusAttachmentName = document.getElementById("syllabusAttachmentName");
+
+
+        syllabusAttachmentInput.addEventListener("change", function () {
+            if (syllabusAttachmentInput.files.length > 0) {
+                const selectedFile = syllabusAttachmentInput.files[0];
+                syllabusAttachmentName.value = selectedFile.name;
+            } else {
+                syllabusAttachmentName.value = "";
+            }
+        });
+    });
+</script> *@

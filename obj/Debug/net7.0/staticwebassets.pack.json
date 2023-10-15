@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Future Generation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Future Generation.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\Attachment\\0f5bed2e-2662-48ae-91d8-d0cc178821cd_js.png",
+      "PackagePath": "staticwebassets\\Attachment\\0f5bed2e-2662-48ae-91d8-d0cc178821cd_js.png"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\Attachment\\21bf1525-d7fa-4826-a9cf-76c850dc7f7a_asp.png",
+      "PackagePath": "staticwebassets\\Attachment\\21bf1525-d7fa-4826-a9cf-76c850dc7f7a_asp.png"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\Attachment\\77d10614-9cfd-4600-ac2a-94858bc5e58f_Database Sheet 1.pdf",
+      "PackagePath": "staticwebassets\\Attachment\\77d10614-9cfd-4600-ac2a-94858bc5e58f_Database Sheet 1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\Attachment\\91786af2-a03a-431d-a205-df9f099a9506_Csharp.png",
+      "PackagePath": "staticwebassets\\Attachment\\91786af2-a03a-431d-a205-df9f099a9506_Csharp.png"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\Attachment\\a88de7e1-d198-42b1-bdb9-92aaffc3f171_machine-learning-libraries-javascript.avif",
+      "PackagePath": "staticwebassets\\Attachment\\a88de7e1-d198-42b1-bdb9-92aaffc3f171_machine-learning-libraries-javascript.avif"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\Attachment\\c2b0350d-f0e2-4fb6-8dbe-90b3b6b5ac49_css.png",
+      "PackagePath": "staticwebassets\\Attachment\\c2b0350d-f0e2-4fb6-8dbe-90b3b6b5ac49_css.png"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\Attachment\\cd4c4e9d-4829-4570-bd09-23dec663893e_html.png",
+      "PackagePath": "staticwebassets\\Attachment\\cd4c4e9d-4829-4570-bd09-23dec663893e_html.png"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\Attachment\\d29fbd0e-7e9d-4661-8997-4eeb7dcad82c_1_oFfl-1UKLtd8XOswpwgriA.png",
+      "PackagePath": "staticwebassets\\Attachment\\d29fbd0e-7e9d-4661-8997-4eeb7dcad82c_1_oFfl-1UKLtd8XOswpwgriA.png"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\css\\bootstrap.min (1).css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min (1).css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ESRAA\\Downloads\\Future Generation\\Future Generation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Future Generation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Future Generation.props",
+      "PackagePath": "build\\Future Generation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Future Generation.props",
+      "PackagePath": "buildMultiTargeting\\Future Generation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Future Generation.props",
+      "PackagePath": "buildTransitive\\Future Generation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

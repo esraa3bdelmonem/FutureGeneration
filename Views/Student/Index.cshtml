@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Future_Generation.Models.Student>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="container mt-3">
+    <div class="row align-items-center">
+        <div class="col-md-8">
+            <h2 class="display-4 mb-4">Students</h2>
+        </div>
+        <div class="col-md-4 text-right">
+            <a class="btn btn-success" asp-action="Create">Add New Student</a>
+        </div>
+    </div>
+
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <form method="post" class="form-inline">
+                <div class="form-group mr-3">
+                    <label for="name" class="sr-only">Name:</label>
+                    <input class="form-control" type="text" name="name" id="name" placeholder="Search by Name">
+                </div>
+                <div class="form-group mr-3">
+                    <label for="email" class="sr-only">Email:</label>
+                    <input class="form-control" type="text" name="email" id="email" placeholder="Search by Email">
+                </div>
+                <div class="form-group mr-3">
+                    <label for="phoneNumber" class="sr-only">Telephone:</label>
+                    <input class="form-control" type="text" name="telephone" id="telephone" placeholder="Search by Telephone">
+                </div>
+                <div class="form-group mr-3">
+                    <label for="address" class="sr-only">Address:</label>
+                    <input class="form-control" type="text" name="address" id="address" placeholder="Search by address">
+                </div>
+                <div class="form-group mt-3">
+                    <button type="submit" class="btn btn-success">Search</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <table class="table table-striped table-bordered text-center">
+
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Telephone</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Telephone)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Address)</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                        <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                        <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

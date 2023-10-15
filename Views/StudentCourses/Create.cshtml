@@ -1,0 +1,52 @@
+﻿@model Future_Generation.Models.StudentCourses
+
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container mt-3">
+    <h2 class="text-center">Add Student Course</h2>
+
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Student Course</h4>
+            <hr />
+
+            <form asp-action="Create" >
+
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label for="StudentId">Select Student</label>
+                    <select asp-for="StudentId" class="form-control" asp-items="ViewBag.stdList">
+                        <option value="">Select Student</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="CourseId">Select Course</label>
+                    <select asp-for="CourseId" class="form-control" asp-items="ViewBag.crsList">
+                        <option value="">Select Course</option>
+                    </select>
+                </div>
+
+            @*     <div class="text-danger">
+                    <span asp-validation-for="StudentId" class="text-danger"></span>
+                    <span asp-validation-for="CourseId" class="text-danger"></span>
+                </div> *@
+                
+
+                <div class="text-center mt-3">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
