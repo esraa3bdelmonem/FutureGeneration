@@ -1,4 +1,3 @@
-# Future-Generation
 
 A simple web-based Student Course  Management System built with ASP.NET MVC 0.7.
 
